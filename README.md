@@ -1,2 +1,2 @@
 # Readme file
-hi thisnis my first repo
+hi this is my first repo
